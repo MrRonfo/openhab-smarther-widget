@@ -1,8 +1,8 @@
-# openHAB Smarther Widget
+# openHAB BTicino Smarther Widget
 
 I've started working on this HABPanel widget for BTicino Smarther chronothermostat, as a companion to the [BTicino Smarther binding](https://community.openhab.org/t/bticino-smarther-thermostat-binding/73329).
 
-Widget: [Smarther.widget.json](/widget/Smarther.widget.json) (13.2 KB)
+Widget: [BTicinoSmarther.widget.json](/widget/BTicinoSmarther.widget.json) (13.2 KB)
 
 ## Main Panel
 
